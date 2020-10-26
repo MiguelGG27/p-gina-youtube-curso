@@ -1,2 +1,2 @@
-# p-gina-youtube-curso
+# pagina-youtube-curso
 Cursillo para crear una web
